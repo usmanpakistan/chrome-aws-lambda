@@ -1,5 +1,5 @@
 # chrome-aws-lambda
-
+Running in 10 Jan 2023
 [![chrome-aws-lambda](https://img.shields.io/npm/v/chrome-aws-lambda.svg?style=for-the-badge)](https://www.npmjs.com/package/chrome-aws-lambda)
 [![TypeScript](https://img.shields.io/npm/types/chrome-aws-lambda?style=for-the-badge)](https://www.typescriptlang.org/dt/search?search=chrome-aws-lambda)
 [![Chromium](https://img.shields.io/badge/chromium-44_MB-brightgreen.svg?style=for-the-badge)](bin/)
